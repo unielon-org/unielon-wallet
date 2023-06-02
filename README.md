@@ -14,3 +14,5 @@ Unielon Wallet - The first browser extension wallet for Dogecoin's Drc20 Cardina
 - Build the project to the `./dist/` folder with `yarn build:chrome` for Chrome
 - Develop: `yarn build:chrome:dev`
 
+## Special Thanks
+Thanks to the MetaMask team and Unisat team for their contributions to the browser extension wallet community, Unielon Wallet relies heavily on their contributions.
